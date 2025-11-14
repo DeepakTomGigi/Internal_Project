@@ -1,5 +1,9 @@
+matplotlib
+wordcloud
+groq
+pandas
 langchain-core
-langchain-openai
+langchain-groq
 streamlit
 langchain-text-splitters
 langchain-community
